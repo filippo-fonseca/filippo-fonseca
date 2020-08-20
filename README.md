@@ -41,7 +41,6 @@
   <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippo-fonseca" />
 
 
-
 [website]: https://filippofonseca.com
 [twitter]: https://twitter.com/filippofonseca
 [instagram]: https://instagram.com/filippo_fonseca
