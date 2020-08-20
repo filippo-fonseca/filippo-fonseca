@@ -36,6 +36,7 @@
   <li>PulseJS</li>
   <li>MathiumJS</li>
   <li>NodeJS</li>
+  <li>JSON</li>
   <li>Elixir</li>
   <li>Phoenix Framework</li>
   <li>Postgres</li>
