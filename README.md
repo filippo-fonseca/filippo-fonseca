@@ -3,6 +3,7 @@
 ## I'm a Full-Stack Engineer and startup CEO based in San Jose
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app)!
+- 💻 Creator of [MathiumJS](https://www.mathiumjs.org)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other devs and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
@@ -42,6 +43,16 @@
   <li>Python</li>
   <li>Django</li>
   <li>REST Framework</li>
+  <li>Git</li>
+  <li>GitHub</li>
+  <li>Visual Studio Code</li>
+  <li>npm</li>
+  <li>Terminal (iTerm2)</li>
+  <li>XCode</li>
+  <li>Figma</li>
+  <li>Adobe Creative Suite</li>
+  <li>Google Suite</li>
+  <li>Microsoft Office 365</li>
   
 </ul>
 
