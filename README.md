@@ -1,4 +1,9 @@
 # 👋 Hi there! I'm Filippo.
+| In-Equation | Equation |
+| ----------- | -------------      |
+| “mean”       | µ = $\frac{Σx}{n}$ |
+| “median”      | $\frac{(n+1)}{2}$        |
+| “mode”        |               |
 
 ## I'm a Full-Stack Engineer and startup CEO based in San Jose
 
