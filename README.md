@@ -37,7 +37,7 @@
 <br />
 
 ---
-  <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.filippo-fonseca.vercel.app/api?filippo-fonseca=codeSTACKr&show_icons=true&hide_border=true" />
+  <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippofonseca" />
 
 
 
