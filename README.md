@@ -37,7 +37,7 @@
 <br />
 
 ---
-  <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippofonseca" />
+  <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippo-fonseca" />
 
 
 
