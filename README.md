@@ -35,6 +35,7 @@
   <li>MathiumJS</li>
   <li>PulseJS</li>
   <li>MathiumJS</li>
+  <li>NodeJS</li>
   <li>Elixir</li>
   <li>Phoenix Framework</li>
   <li>Postgres</li>
@@ -46,7 +47,8 @@
   <li>Git</li>
   <li>GitHub</li>
   <li>Visual Studio Code</li>
-  <li>npm</li>
+  <li>NPM</li>
+  <li>Yarn</li>
   <li>Terminal (iTerm2)</li>
   <li>XCode</li>
   <li>Figma</li>
