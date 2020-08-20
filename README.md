@@ -23,11 +23,15 @@
   <li>CSS</li>
   <li>JavaScript</li>
   <li>TypeScript</li>
+  <li>React</li>
+  <li>MathiumJS</li>
   <li>PulseJS</li>
   <li>MathiumJS</li>
   <li>Elixir</li>
   <li>Phoenix Framework</li>
   <li>Postgres</li>
+  <li>PulseJS</li>
+  <li>GraphQL</li>
   <li>Python</li>
   <li>Django</li>
   <li>REST Framework</li>
