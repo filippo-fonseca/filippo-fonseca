@@ -43,8 +43,7 @@
 
 ---
   <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippo-fonseca" />
-[![To(https://github-readme-stats.vercel.app/api?username=filippo-fonseca)
-<img align="right alt="Most-Used Languages" src="https://github.com/anuraghazra/github-readme-stats" />
+<img align="right alt="Most-Used Languages" src="https://github.com/filippo-fonseca/github-readme-stats" />
 
 [website]: https://filippofonseca.com
 [twitter]: https://twitter.com/filippofonseca
