@@ -8,6 +8,8 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
 - ⚡ Fun fact: I'm Italian 🇮🇹
 
+<br />
+
 <img align="left" alt="Filippo Fonseca's Github Stats" src="https://github-readme-stats.vercel.app/api?username=filippo-fonseca" />
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
 
