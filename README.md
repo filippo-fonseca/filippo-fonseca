@@ -5,6 +5,7 @@
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app)!
 - 💻 Creator of [MathiumJS](https://www.mathiumjs.org)
 - 🌱 I’m currently learning everything 🤣
+  - Most recently TS, GraphQL, TypeGraphQL, and Go
 - 👯 I’m looking to collaborate with other devs and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
 - ⚡ Fun fact: I'm Italian 🇮🇹
