@@ -3,7 +3,7 @@
 ## I'm a Full-Stack Engineer and startup CEO based in San Jose
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app)!
-- 💻 Creator of [MathiumJS](https://www.mathiumjs.surge.sh)
+- 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh)
 - 🌱 I’m currently learning everything 🤣
   - Most recently TS, GraphQL, TypeGraphQL, and Go
 - 👯 I’m looking to collaborate with other devs and content creators
