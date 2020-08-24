@@ -4,7 +4,7 @@
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app)!
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh)
-- ⚡️  MOST RECENT PROJECT: [Amazon Alexa Focus Timer Skill](https://github.com/filippo-fonseca/worksession)
+- ⚡️  MOST RECENT PROJECT: [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) -> Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
 - 🌱 I’m currently learning everything 🤣
   - Most recently TS, GraphQL, TypeGraphQL, and Go
 - 👯 I’m looking to collaborate with other devs and content creators
