@@ -13,9 +13,11 @@
 - ⚡ Fun fact: I'm Italian 🇮🇹
 
 <br />
+<img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
 
 ![Mark Music Github Stats](https://github-readme-stats.vercel.app/api?username=filippo-fonseca&show_icons=true&title_color=00&icon_color=ff&text_color=9f9f9f&bg_color=151515)
-<img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
+
+
 
 <br />
 
