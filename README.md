@@ -9,6 +9,7 @@
   - Most recently TS, GraphQL, TypeGraphQL, and Go
 - 👯 I’m looking to collaborate with other devs and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
+- 🤓 Startup and productivity nerd
 - ⚡ Fun fact: I'm Italian 🇮🇹
 
 <br />
