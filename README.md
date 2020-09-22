@@ -26,7 +26,7 @@
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh)
 - ⚡️  MOST RECENT PROJECT: [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) => Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
 - 🌱 I’m currently learning everything 🤣
-  - Most recently TS, GraphQL, TypeGraphQL, Go, and Swift
+  - Most recently GraphQL, TypeGraphQL, React, & React Native
 - 👯 I’m looking to collaborate with other devs and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
 - 🤓 Startup and productivity nerd
