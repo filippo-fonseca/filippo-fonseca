@@ -1,5 +1,25 @@
 # 👋 Hi there! I'm Filippo.
 
+<br/>
+<a href="https://twitter.com/FilippoFonseca">
+  <img align="left" alt="Mark Music| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com">
+  <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/filippo_fonseca">
+  <img align="left" alt="Instagram" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://open.spotify.com/user/wxz5d0in64yl12jqba74n4n39?si=R1Ad2ur1Tuq7zBG4MjUr9A">
+  <img align="left" alt="Spotify" width="30px" src="https://www.svgrepo.com/show/51739/spotify.svg" />
+</a>
+<a href="mailto:filifonsecacagnazzo@gmail.com">
+  <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" />
+</a>
+
+<br />
+<br />
+
 ## I'm a Full-Stack Engineer and startup CEO based in San Jose
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app) and CTO of Safe Labs
