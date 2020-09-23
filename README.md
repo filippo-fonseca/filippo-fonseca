@@ -23,7 +23,7 @@
 ## I'm a Full-Stack Engineer and startup CEO based in San Jose
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app) and CTO of Safe Labs
-- 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh)
+- 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - ⚡️  MOST RECENT PROJECT: [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) => Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
 - 🌱 I’m currently learning everything 🤣
   - Most recently GraphQL, TypeGraphQL, React, & React Native
