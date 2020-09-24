@@ -37,7 +37,7 @@
 <br />
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
 
-![Filippo Fonseca's Github Stats](https://github-readme-stats.vercel.app/api?username=filippo-fonseca&count_private=true&show_icons=true&theme=algolia)
+![Filippo Fonseca's Github Stats](https://github-readme-stats.vercel.app/api?username=AvalancheOfFox&count_private=true&show_icons=true&theme=algolia)
 
 
 
