@@ -25,7 +25,7 @@
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app), the all-in-one platform to organize your life
 - 🚦 Co-Founder and CTO of Safe Labs, a powerful tool for personal and community safety
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
-- ⚡️  MOST RECENT PROJECT: [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) => Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
+- ⚡️  MOST RECENT PROJECTS: [Decodify](https://decodify.surge.sh/) - The ultimate frontend code editor | [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) => Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
 - 🌱 I’m currently learning everything 🤣
   - Most recently GraphQL, TypeGraphQL, React, & React Native
 - 👯 I’m looking to collaborate with other devs and content creators
