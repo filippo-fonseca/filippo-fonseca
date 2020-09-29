@@ -27,7 +27,7 @@
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - ⚡️  MOST RECENT PROJECTS: [Decodify](https://decodify.surge.sh/) - The ultimate frontend code editor & [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) => Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
 - 🌱 I’m currently learning everything 🤣
-  - Most recently GraphQL, TypeGraphQL, React, & React Native
+  - Most recently Dart, Flutter, GraphQL, TypeGraphQL
 - 👯 I’m looking to collaborate with other devs and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
 - 🏀 Basketball enthusiast
