@@ -60,6 +60,8 @@
   <li>JavaScript</li>
   <li>TypeScript</li>
   <li>React</li>
+  <li>Dart</li>
+  <li>Flutter</li>
   <li>MathiumJS</li>
   <li>PulseJS</li>
   <li>MathiumJS</li>
