@@ -40,7 +40,9 @@
                                                                                                                                                
                                                                                                                                                
 ![Filippo Fonseca's Github Stats](https://github-readme-stats.vercel.app/api?username=filippo-fonseca&count_private=true&show_icons=true&theme=algolia)
-<figure><embed src="https://wakatime.com/share/@filippofonseca/6e278fe1-dd57-4d41-9070-807b04e90d13.svg"></embed></figure>
+
+![Stats](https://wakatime.com/share/@filippofonseca/6e278fe1-dd57-4d41-9070-807b04e90d13.svg)
+<img align="right alt="Time" src="https://wakatime.com/share/@filippofonseca/6e278fe1-dd57-4d41-9070-807b04e90d13.svg" />
 
 
 
