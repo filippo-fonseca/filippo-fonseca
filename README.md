@@ -70,6 +70,8 @@
   <li>MathiumJS</li>
   <li>NodeJS</li>
   <li>JSON</li>
+  <li>Flutter</li>
+  <li>YAML</>
   <li>Elixir</li>
   <li>Phoenix Framework</li>
   <li>Postgres</li>
