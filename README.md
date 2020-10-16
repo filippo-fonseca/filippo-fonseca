@@ -82,47 +82,6 @@
 
 <br />
 
-### Languages and Tools:
-
-<ul>
-  <li>HTML</li>
-  <li>CSS</li>
-  <li>JavaScript</li>
-  <li>TypeScript</li>
-  <li>React</li>
-  <li>Dart</li>
-  <li>Flutter</li>
-  <li>MathiumJS</li>
-  <li>PulseJS</li>
-  <li>MathiumJS</li>
-  <li>NodeJS</li>
-  <li>JSON</li>
-  <li>Flutter</li>
-  <li>YAML</>
-  <li>Elixir</li>
-  <li>Phoenix Framework</li>
-  <li>Postgres</li>
-  <li>PulseJS</li>
-  <li>GraphQL</li>
-  <li>Python</li>
-  <li>Django</li>
-  <li>Swift</li>
-  <li>REST Framework</li>
-  <li>Amazon Alexa Developer Console</li>
-  <li>Git</li>
-  <li>GitHub</li>
-  <li>Visual Studio Code</li>
-  <li>NPM</li>
-  <li>Yarn</li>
-  <li>Terminal (iTerm2)</li>
-  <li>XCode</li>
-  <li>Figma</li>
-  <li>Adobe Creative Suite</li>
-  <li>Google Suite</li>
-  <li>Microsoft Office 365</li>
-  
-</ul>
-
 <br />
 <br />
 
