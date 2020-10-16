@@ -86,7 +86,6 @@
 <br />
 
 ![Stats](https://wakatime.com/share/@filippofonseca/6e278fe1-dd57-4d41-9070-807b04e90d13.svg)
----
 [website]: https://filippofonseca.com
 [twitter]: https://twitter.com/filippofonseca
 [instagram]: https://instagram.com/filippo_fonseca
