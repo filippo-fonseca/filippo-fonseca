@@ -35,6 +35,19 @@
 - 🤓 Startup and productivity nerd
 - ⚡ Fun fact: I'm Italian 🇮🇹
 
+| Projects 🚧 | Info ℹ️ |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|
+| [Zyndicate](https://www.zyndicate.app) 🦄 | The all-in-one platform to organize your life. |
+| [MathiumJS](https://www.mathium.surge.sh) 🧮 | An open source framework for quickly and easily implementing math and computational functionality without the hassle. |
+| [Decodify](https://www.decodify.surge.sh) 💻 | The ultimate open source frontend code editor meticulously crafted for quick, easy, reliable, and efficient experimentation. |
+| [Identicon](https://github.com/filippo-fonseca/identicon) 🗣 | Generates a random Identicon image based on your name, which then leads to a random hex color and symmetrical pattern-style avatar. Built in Elixir.  |
+| [motivate.me](https://github.com/filippo-fonseca/motivate.me) 🎷 | Inspirational motivational snippets for the seeking. Written in Flutter and Dart. |
+| [Avoid](https://github.com/tale/logos) 🦠 | An all in one COVID-19 platform Designed to satisfy the critical information needs the pandemic has uncovered. Made for the IvyHacks 2020 Ivy League Hackathon 🤓. |
+| [Lang] 🧠 | Written to programmatically generate the longest book in the world using logarithmic functionality with TypeScript.  |
+| [Durat] 🔧 | An open source framework for opening the possibilities of what you can do with text. |
+| [Cards](https://github.com/filippo-fonseca/cards) 💳 | A fun way of playing with cards; allows you to create a deck, shuffle it, find a specific card, deal the deck, create a hand, and more.  |
+|                                                  |                                                                                                |
+
 <br />
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
                                                                                                                                                
