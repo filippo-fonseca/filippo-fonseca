@@ -56,7 +56,7 @@
 | [Decodify](https://www.decodify.surge.sh) 💻 | The ultimate open source frontend code editor meticulously crafted for quick, easy, reliable, and efficient experimentation. |
 | [Identicon](https://github.com/filippo-fonseca/identicon) 🗣 | Generates a random Identicon image based on your name, which then leads to a random hex color and symmetrical pattern-style avatar. Built in Elixir.  |
 | [motivate.me](https://github.com/filippo-fonseca/motivate.me) 🎷 | Inspirational motivational snippets for the seeking. Written in Flutter and Dart. |
-| [Avoid](https://github.com/tale/logos) 🦠 | An all-in-one COVID-19 platform designed to satisfy the critical information needs the pandemic has uncovered. Made for the IvyHacks 2020 Ivy League Hackathon 🤓. Built in TypeScript, React, and styled-components using server-side rendering from NextJS. |
+| [Avoid](https://github.com/filippo-fonseca/avoid) 🦠 | An all-in-one COVID-19 platform designed to satisfy the critical information needs the pandemic has uncovered. Made for the IvyHacks 2020 Ivy League Hackathon 🤓. Built in TypeScript, React, and styled-components using server-side rendering from NextJS. |
 | [Lang](https://github.com/filippo-fonseca/lang) 🧠 | Written to programmatically generate the longest book in the world using logarithmic functionality with TypeScript.  |
 | [Durat](https://github.com/filippo-fonseca/durat) 🔧 | An open source framework for opening the possibilities of what you can do with text. |
 | [Cards](https://github.com/filippo-fonseca/cards) 💳 | A fun way of playing with cards; allows you to create a deck, shuffle it, find a specific card, deal the deck, create a hand, and more. Built with functional principles in Elixir.  |
