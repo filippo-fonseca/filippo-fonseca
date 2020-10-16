@@ -25,7 +25,6 @@
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app), the all-in-one platform to organize your life
 - 🚦 Co-Founder and CTO of Safe Labs, a powerful tool for personal and community safety
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
-- ⚡️  MOST RECENT PROJECTS: [Decodify](https://decodify.surge.sh/) - The ultimate frontend code editor & [Amazon Alexa Focus Timer Skill](https://cutt.ly/kfawRin) => Check out the code [here](https://www.github.com/filippo-fonseca/worksession_skill)
 - 🌱 I’m currently learning everything 🤣
   - Most recently Dart, Flutter, GraphQL, TypeGraphQL
 - 👯 I’m looking to collaborate with other devs and content creators
@@ -39,11 +38,13 @@
 
 - Primarily experienced in Full-Stack web development: JavaScript, TypeScript, React, HTML/CSS, and other related aspects of frontend development
 - Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
-- Backend experience with GraphQL and PostgreSQL
-- Mobile development experience using Flutter and Dart (primarily). Previous experience with native Swift and compiled Objective-C as well.
+- Backend experience with GraphQL, Apollo, PostgreSQL
+- Mobile development experience using Flutter and Dart (primarily), as well as compiled Objective-C. Previous experience with native Swift.
 - Experimenting with systems architecture/engineering with Rust and C++.
 - Knowledgeable in Elixir and Phoenix Framework
 - Previous experience in Python, Django, and the REST Framework
+- Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
+- Docker and containerized environments
 
 ### Recent Projects
 
@@ -59,8 +60,8 @@
 | [Lang](https://github.com/filippo-fonseca/lang) 🧠 | Written to programmatically generate the longest book in the world using logarithmic functionality with TypeScript.  |
 | [Durat](https://github.com/filippo-fonseca/durat) 🔧 | An open source framework for opening the possibilities of what you can do with text. |
 | [Cards](https://github.com/filippo-fonseca/cards) 💳 | A fun way of playing with cards; allows you to create a deck, shuffle it, find a specific card, deal the deck, create a hand, and more. Built with functional principles in Elixir.  |
+| [Amazon Alexa Work Session Skill](https://www.amazon.com/dp/B08GKWN831/ref=cm_cr_arp_d_product_top?ie=UTF8) 💪 | A powerful Alexa skill to remain focused on the task at hand when working/studying Built in JavaScript as part of the Amazon developer program.   |
 |                                                  |                                                                                                |
-
 <br />
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
                                                                                                                                                
