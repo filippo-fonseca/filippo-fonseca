@@ -35,6 +35,16 @@
 - 🤓 Startup and productivity nerd
 - ⚡ Fun fact: I'm Italian 🇮🇹
 
+### ⚡️ My Skills
+
+- Primarily experienced in Full-Stack web development: JavaScript, TypeScript, React, HTML/CSS, and other related aspects of frontend development
+- Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
+- Backend experience with GraphQL and PostgreSQL
+- Mobile development experience using Flutter and Dart (primarily). Previous experience with native Swift and compiled Objective-C as well.
+- Experimenting with systems architecture/engineering with Rust and C++.
+- Knowledgeable in Elixir and Phoenix Framework
+- Previous experience in Python, Django, and the REST Framework
+
 ### Recent Projects
 
 | Projects 🚧 | Info ℹ️ |
