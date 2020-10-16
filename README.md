@@ -35,6 +35,8 @@
 - 🤓 Startup and productivity nerd
 - ⚡ Fun fact: I'm Italian 🇮🇹
 
+### Recent Projects
+
 | Projects 🚧 | Info ℹ️ |
 |--------------------------------------------------|------------------------------------------------------------------------------------------------|
 | [Zyndicate](https://www.zyndicate.app) 🦄 | The all-in-one platform to organize your life. |
