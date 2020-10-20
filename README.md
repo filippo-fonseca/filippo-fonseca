@@ -24,6 +24,7 @@
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app), the all-in-one platform to organize your life
 - 🚦 Co-Founder and CTO of Safe Labs, a powerful tool for personal and community safety
+- 🚀 Currently building Aero, an open-source programming language to empower everyone to build clean-cut, efficienct, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - 🌱 I’m currently learning everything 🤣
   - Most recently Dart, Flutter, GraphQL, TypeGraphQL
