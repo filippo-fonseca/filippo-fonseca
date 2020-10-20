@@ -70,7 +70,7 @@
                                                                                                                                                
 ![Filippo Fonseca's Github Stats](https://github-readme-stats.vercel.app/api?username=filippo-fonseca&count_private=true&show_icons=true&theme=algolia)
 
-[![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippofonseca)](https://github.com/anuraghazra/github-readme-stats)
+[![Filippo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippofonseca)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
