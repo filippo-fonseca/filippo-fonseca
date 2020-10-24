@@ -14,7 +14,7 @@
   <img align="left" alt="Spotify" width="30px" src="https://www.svgrepo.com/show/51739/spotify.svg" />
 </a>
 <a href="mailto:filifonsecacagnazzo@gmail.com">
-  <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" />
+  <img align="left" alt="Email" width="30px" src="https://www.svgrepo.com/show/94769/black-back-closed-envelope-shape.svg" /> 
 </a>
 
 <br />
