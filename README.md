@@ -42,7 +42,7 @@
 - Backend experience with GraphQL, Apollo, PostgreSQL
 - Mobile development experience using Flutter and Dart (primarily), as well as compiled Objective-C. Previous experience with native Swift.
 - Experimenting with systems architecture/engineering with Rust and C++.
-- Knowledgeable in Elixir and Phoenix Framework
+- Knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
 - Previous experience in Python, Django, and the REST Framework
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker and containerized environments
