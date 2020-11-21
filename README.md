@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://twitter.com/FilippoFonseca">
-  <img align="left" alt="Filippo Fonseca| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />                                     
+  <img align="left" alt="Filippo Fonseca| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />                                      
 </a>
 <a href="https://www.linkedin.com">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
@@ -26,7 +26,7 @@
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app), the all-in-one platform to organize your life
 - 🚦 Co-Founder and CTO of Safe Labs, a powerful tool for personal and community safety
-- ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur
+- ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
 - 🚀 Currently building [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - 🌱 I’m currently learning everything 🤣
