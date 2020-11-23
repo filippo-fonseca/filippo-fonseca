@@ -2,7 +2,7 @@
 
 <br/>
 <a href="https://twitter.com/FilippoFonseca">
-  <img align="left" alt="Filippo Fonseca| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />                                         
+  <img align="left" alt="Filippo Fonseca| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />                                          
 </a>
 <a href="https://www.linkedin.com">
   <img align="left" alt="Linkedin" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> 
