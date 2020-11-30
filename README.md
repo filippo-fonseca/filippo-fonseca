@@ -43,10 +43,10 @@
 - Primarily experienced in Full-Stack web development: JavaScript, TypeScript, React, HTML/CSS, and other related aspects of frontend development
 - Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
 - Mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
+- Python experience with AI/Machine Learning, Django, and TensorFlow
 - Backend experience with GraphQL, Apollo, PostgreSQL
 - Experimenting with systems architecture/engineering with Rust and C++.
 - Knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
-- Previous experience in Python, Django, and the REST Framework
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker and containerized environments
 
