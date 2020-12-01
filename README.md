@@ -45,7 +45,7 @@
 - Mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
 - Python experience with AI/Machine Learning, Django, and TensorFlow
 - Backend experience with GraphQL, Apollo, PostgreSQL
-- Experimenting with systems architecture/engineering with Rust and C++.
+- Experimenting with systems architecture/engineering in Rust and C++.
 - Knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker and containerized environments
