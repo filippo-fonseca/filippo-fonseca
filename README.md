@@ -31,7 +31,7 @@
 - 🚀 Currently building [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - 🌱 I’m currently learning everything 🤣
-  - Most recently Go, Python, TensorFlow/Keras, AI/Machine , and Rust
+  - Most recently Go, Python, TensorFlow/Keras, AI/Machine Learning, and Rust
 - 👯 I’m looking to collaborate with other devs and content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects and be ready to launch zyndicate.app
 - 🏀 Basketball enthusiast
