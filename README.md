@@ -1,5 +1,7 @@
 # 👋 Hi there! I'm Filippo.
 
+🌳 Growing.
+
 <br/>
 <a href="https://twitter.com/FilippoFonseca">
   <img align="left" alt="Filippo Fonseca| Twitter" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />                                                             
