@@ -79,18 +79,6 @@
 
 [![Filippo's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippofonseca)](https://github.com/anuraghazra/github-readme-stats)
 
-
-
-<br />
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://www.filippofonseca.com)
-[   <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />](https://www.twitter.com/filippofonseca)
-[ <img align="left" alt="Instagram" width="30px" src="https://i.ibb.co/ggb3yxk/insta.png" />](https://www.instagram.com/filippo_fonseca)
-
-<br />
-
 <br />
 <br />
 
