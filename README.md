@@ -4,7 +4,7 @@
 
 <br/>
 <a href="https://twitter.com/FilippoFonseca">
-  <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                        
+  <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                         
 </a>
 <a href="https://www.linkedin.com">
    <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />
@@ -27,7 +27,7 @@
 🙌 Building tools that help others with true value.
 
 - 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app), the all-in-one platform to organize your life
-- 🚦 Co-Founder and CTO of Safe Labs, a powerful tool for personal and community safety
+- 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
 - 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IOT
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
 - 🚀 Currently building [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
