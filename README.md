@@ -60,7 +60,7 @@
 | [Zyndicate](https://www.zyndicate.app) 🦄 | The all-in-one platform to organize your life. |
 | [Safe](https://www.safelabs.app) ⚡️ | A powerful tool for personal and community safety. |
 | [Beam AI](https://website.beam-ai.vercel.app/) 🤖 | Empowering revolutionary energy consumption with AI/Machine Learning and the power of IOT. |
-| [Aero](https://github.com/aero-lang/aero) 🚀 |  an open-source programming language to empower everyone to build clean-cut, efficienct, powerful, and reliable software |
+| [Aero](https://github.com/aero-lang/aero) 🚀 |  An open-source programming language to empower everyone to build clean-cut, efficienct, powerful, and reliable software |
 | [MathiumJS](https://www.mathium.surge.sh) 🧮 | An open source framework for quickly and easily implementing math and computational functionality without the hassle. |
 | [Decodify](https://www.decodify.surge.sh) 💻 | The ultimate open source frontend code editor meticulously crafted for quick, easy, reliable, and efficient experimentation. |
 | [Identicon](https://github.com/filippo-fonseca/identicon) 🗣 | Generates a random Identicon image based on your name, which then leads to a random hex color and symmetrical pattern-style avatar. Built in Elixir.  |
