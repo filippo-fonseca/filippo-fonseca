@@ -32,6 +32,7 @@
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
 - 🚀 Currently building [Aero](https://github.com/aero-lang/aero), an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
+- ❄️ TS & GraphQL Enthusiast
 - 🎓 Computer Science TA
 - 🌱 I’m currently learning everything 🤣
   - Most recently Go, Python, TensorFlow/Keras, AI/Machine Learning, and Rust
