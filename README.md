@@ -7,7 +7,7 @@
   <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                                  
 </a>
 <a href="https://www.linkedin.com">
-   <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />  
+   <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />   
 </a>
 <a href="https://www.instagram.com/filippo_fonseca">
  <img align="left" alt="Instagram" width="30px" src="https://i.ibb.co/ggb3yxk/insta.png" />
