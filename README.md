@@ -82,7 +82,8 @@
 [![Filippo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippofonseca)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<detailsFurther Stats</summary>
+<details>
+  <summary>Further Stats</summary>
   
   <br />
 
