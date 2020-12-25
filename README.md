@@ -81,3 +81,14 @@
 
 [![Filippo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippofonseca)](https://github.com/anuraghazra/github-readme-stats)
 
+
+<detailsFurther Stats</summary>
+  
+  <br />
+
+Profile views since December 25th, 2020.
+ 
+![Profile Views since December 25th, 2020](https://komarev.com/ghpvc/?username=filippo-fonsecad&style=flat-square)
+</details>
+
+
