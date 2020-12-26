@@ -26,7 +26,7 @@
 
 🙌 Building tools that help others with true value.
 
-- 🛠 Currently the CEO of [zyndicate.app](https://www.zyndicate.app), the all-in-one platform to organize your life
+- 🛠 Currently the CEO of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life
 - 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
 - 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IoT
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
