@@ -47,7 +47,7 @@
 
 ### ⚡️ My Skills
 
-- Primarily experienced in Full-Stack web development: JavaScript, TypeScript, React, HTML/CSS, and other related aspects of frontend development
+- Primarily experienced in Full-Stack web development: TypeScript, JavaScript, React, HTML/CSS, and other related aspects of frontend development
 - Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
 - Mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
 - Python experience with AI/Machine Learning, Django, and TensorFlow
