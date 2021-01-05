@@ -4,7 +4,7 @@
 
 <br/>
 <a href="https://twitter.com/FilippoFonseca">
-  <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                                               
+  <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                                                
 </a>
 <a href="https://www.linkedin.com">
    <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />    
