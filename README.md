@@ -1,5 +1,6 @@
 <img width="100%" src="https://i.ibb.co/GkkqhFc/banner.png" />
 
+<br />
 <br/>
 <a href="https://twitter.com/FilippoFonseca">
   <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                                                           
@@ -22,8 +23,6 @@
 # 👋 Hi there! I'm Filippo.
 
 🌳 Growing.
-
-<br />
 
 ## I'm a 14 year old Full-Stack Engineer and startup founder based in San Jose.
 
