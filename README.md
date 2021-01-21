@@ -1,4 +1,4 @@
-<img width="100%" src="https://i.ibb.co/7W8y9Kj/banner.png" />
+<img width="100%" src="https://i.ibb.co/GkkqhFc/banner.png" />
 
 # 👋 Hi there! I'm Filippo.
 
