@@ -24,6 +24,8 @@
 
 ## I'm a 14 year old Full-Stack Engineer and startup founder based in San Jose.
 
+Want to chat? Email me or send me a friend request on Discord! *filippofonseca#8118*
+
 🙌 Building tools that help others with true value.
 
 - 🛠 Currently the CEO of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life
@@ -35,6 +37,7 @@
 - 🚀 Currently building an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - ❄️ TS, React, & GraphQL Enthusiast
+- 🧮 Obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning
 - 🎓 Computer Science TA
 - 🌱 I’m currently learning everything 🤣
   - Most recently Go, Python, TensorFlow/Keras, AI/Machine Learning, and Rust
