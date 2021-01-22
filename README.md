@@ -66,6 +66,8 @@
 
 🎧 Spotify | __[Deep Focus Lo-Fi Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
 
+📸 Instagram | __[@filippo_fonseca](https://www.instagram.com/filippo_fonseca)__
+
 
 <br />
 <details>
