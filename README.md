@@ -71,9 +71,7 @@
 
 <br />
 <details>
-  <summary>Stats</summary>| <a href="mailto:filifonsecacagnazzo@gmail.com">
-    **filifonsecacagnazzo@gmail.com**
-</a>
+  <summary>Stats</summary>
   
   <br />
 
