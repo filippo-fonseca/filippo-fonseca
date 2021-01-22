@@ -16,6 +16,7 @@
 <img align="left" alt="Email" width="30px" src="https://i.ibb.co/FB5PR40/mail.png" />
 </a>
 
+<br>
 <br />
 
 # 👋 Hi there! I'm Filippo.
