@@ -56,13 +56,16 @@
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker, Kubernetes, and containerized environments
 
-#### Contact
+#### Contact + Platforms
 
-✉️ Email | __[markmusic999@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
+✉️ Email | __[filifonsecacagnazzo@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
 
-🐦 Twitter | __[markmusic2727](https://twitter.com/FilippoFonseca)__
+🐦 Twitter | __[@FilippoFonseca](https://twitter.com/FilippoFonseca)__
 
 💬 Discord | __[filippofonseca#8118]()__
+
+🎧 Spotify | __[Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
+
 
 <br />
 <details>
