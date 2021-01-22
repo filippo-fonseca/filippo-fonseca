@@ -58,7 +58,11 @@
 
 #### Contact
 
-📧 Email | 
+✉️ Email | __[markmusic999@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
+
+🐦 Twitter | __[markmusic2727](https://twitter.com/FilippoFonseca)__
+
+💬 Discord | __[filippofonseca#8118]()__
 
 <br />
 <details>
