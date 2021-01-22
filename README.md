@@ -64,7 +64,7 @@
 
 💬 Discord | __[filippofonseca#8118]()__
 
-🎧 Spotify | __[Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
+🎧 Spotify | __[Deep Focus Lo-Fi Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
 
 
 <br />
