@@ -1,21 +1,5 @@
 <img width="100%" src="https://i.ibb.co/GkkqhFc/banner.png" />
 
-<a href="https://twitter.com/FilippoFonseca">
-  <img align="left" alt="Filippo Fonseca | Twitter" width="30px" src="https://i.ibb.co/nb5cF4h/twitter.png" />                                                                                           
-</a>
-<a href="https://www.linkedin.com">
-   <img align="left" alt="Linkedin" width="30px" src="https://i.ibb.co/s2Hzm4t/61109.png" />     
-</a>
-<a href="https://www.instagram.com/filippo_fonseca">
- <img align="left" alt="Instagram" width="30px" src="https://i.ibb.co/ggb3yxk/insta.png" />
-</a>
-<a href="https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA">
-<img align="left" alt="Spotify" width="30px" src="https://i.ibb.co/vk4Z96V/Spotify-Logo.png" />
-</a>
-<a href="mailto:filifonsecacagnazzo@gmail.com">
-<img align="left" alt="Email" width="30px" src="https://i.ibb.co/FB5PR40/mail.png" />
-</a>
-
 <br>
 <br />
 
