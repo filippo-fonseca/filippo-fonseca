@@ -19,15 +19,9 @@
 <br>
 <br />
 
-# 👋 Hi there! I'm Filippo.
+## 👋 Hi there! I'm Filippo.
 
-🌳 Growing.
-
-## I'm a 14 year old Full-Stack Engineer and startup founder based in San Jose.
-
-Want to chat? Email me or send me a friend request on Discord! *filippofonseca#8118*
-
-🙌 Building tools that help others with true value.
+🌳 Growing. I'm a 14 year old Full-Stack Engineer and startup founder based in San Jose that seeks to build tools that help others grow with true value.
 
 - 🛠 Currently the CEO of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life
 - 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
