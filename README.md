@@ -56,9 +56,15 @@
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker, Kubernetes, and containerized environments
 
+#### Contact
+
+📧 Email | 
+
 <br />
 <details>
-  <summary>Stats</summary>
+  <summary>Stats</summary>| <a href="mailto:filifonsecacagnazzo@gmail.com">
+    **filifonsecacagnazzo@gmail.com**
+</a>
   
   <br />
 
