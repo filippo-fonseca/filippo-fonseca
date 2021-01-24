@@ -1,7 +1,5 @@
 <img width="100%" src="https://i.ibb.co/GkkqhFc/banner.png" />
 
-<br />
-
 ## 👋 Hi there! I'm Filippo.
 
 🌳 Growing. I'm a 14 year old Full-Stack / multi-disciplinary Engineer and startup founder based in San Jose that seeks to build tools that help others grow with true value.
@@ -62,7 +60,6 @@ Profile views since December 25th, 2020.
  
 ![Profile Views since December 25th, 2020](https://komarev.com/ghpvc/?username=filippo-fonsecad&style=flat-square)
 
-<br />
 
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
                                                                                                                                                
