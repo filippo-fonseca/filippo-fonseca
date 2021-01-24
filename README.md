@@ -1,6 +1,5 @@
 <img width="100%" src="https://i.ibb.co/GkkqhFc/banner.png" />
 
-<br>
 <br />
 
 ## 👋 Hi there! I'm Filippo.
