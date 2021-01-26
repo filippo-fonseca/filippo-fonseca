@@ -1,6 +1,6 @@
 <img width="100%" src="https://i.ibb.co/GkkqhFc/banner.png" />
 
-### 👋 Hi there! I'm Filippo.
+### 👋 Hi there! I'm Filippo. 
 
 🌳 Always growing. I'm a 14 year old Full-Stack / multi-disciplinary Engineer and startup founder based in San Jose that seeks to build tools that help others grow with true value.
 
