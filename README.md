@@ -13,7 +13,7 @@
 - 🚀 Currently building an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - ❄️ TS, React, & GraphQL evangelist
-- 🧮 Obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning
+- 🧮 Obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning 
 - 🎓 Computer Science TA
 - 🌱 I’m currently learning everything 🤣
   - Most recently C++, Golang, Calculus, and Linear Algebra
