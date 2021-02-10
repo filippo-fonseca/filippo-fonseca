@@ -6,7 +6,7 @@
 
 - 🛠 CEO & Co-Founder of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life 
 - 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
-- 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IoT
+- ✈️  Building [UpDrop](https://github.com/updrophq), Peer-to-peer item delivery powered by drone technology and deep learning.
 - 🫁 Creator of [myracle.app](https://github.com/myracle-app), an open-source tool for automated multi-central, domino-based kidney transplant matching.
 - 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IoT
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
