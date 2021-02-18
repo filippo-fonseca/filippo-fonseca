@@ -36,6 +36,8 @@
 - Knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker, Kubernetes, and containerized environments
+- Mechanoical engineering (EV3 robotics, JDI drones, biomedical devices, etc.)
+- Electrical engineering (circuits, Arduino, breadboards, JDI Matrice 600 drone integration, etc.)
 
 #### Contact + Platforms
 
