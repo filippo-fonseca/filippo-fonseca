@@ -8,7 +8,7 @@
 - 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
 - ✈️  Building [UpDrop](https://github.com/updrophq), peer-to-peer item delivery powered by drone technology and deep learning.
 - 🫁 Creator of [myracle.app](https://github.com/myracle-app), an open-source tool for automated multi-central, domino-based kidney transplant matching.
-- 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IoT
+- 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IoT 
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
 - 🚀 Currently building an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
