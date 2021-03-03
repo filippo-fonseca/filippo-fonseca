@@ -22,7 +22,7 @@
 - 🏀 Basketball enthusiast
 - ✈️  AvGeek
 - 🤓 Startup and productivity nerd
-- ⚡ Fun fact: I'm Italian 🇮🇹
+- ⚡ Fun fact: I'm Italian 🇮🇹 
 
 ### ⚡️ My Skills
 
