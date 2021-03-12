@@ -1,11 +1,11 @@
 <img width="100%" alt="Screen Shot 2021-03-05 at 10 06 14" src="https://user-images.githubusercontent.com/48065878/110141129-78335e00-7d9a-11eb-8324-085babb3416f.png">
 
 
-### 👋 Hi there! I'm Filippo.  
+### 👋 Hi there! I'm Filippo.   
 
 🌳 Constantly growing. I'm a 14 year old Full-Stack / multi-disciplinary Engineer and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.    
 
-- 🛠 CEO & Co-Founder of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life    
+- 🛠 CEO & Co-Founder of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life     
 - 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
 - ✈️  Building [UpDrop](https://github.com/updrophq), peer-to-peer item delivery powered by drone technology and deep learning.
 - 🫁 Creator of [myracle.app](https://github.com/myracle-app), an open-source tool for automated multi-central, domino-based kidney transplant matching.
