@@ -1,4 +1,4 @@
-<img width="100%" alt="Screen Shot 2021-03-05 at 10 06 14" src="https://user-images.githubusercontent.com/48065878/110141129-78335e00-7d9a-11eb-8324-085babb3416f.png"> 
+<img width="100%" alt="Screen Shot 2021-03-05 at 10 06 14" src="https://i.ibb.co/dJnQ1Jt/ff-removebg-preview.png"> 
 
 
 ### 👋 Hi there! I'm Filippo.   
