@@ -40,6 +40,10 @@
 - Mechanical engineering (EV3 robotics, JDI drones, biomedical devices, etc.)
 - Electrical engineering (circuits, Arduino, breadboards, JDI Matrice 600 drone integration, etc.)
 
+<img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> 
+
+<img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" />
+
 #### Contact + Platforms
 
 ✉️ Email | __[filifonsecacagnazzo@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
@@ -52,7 +56,6 @@
 
 📸 Instagram | __[@filippo_fonseca](https://www.instagram.com/filippo_fonseca)__
 
-<img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" />
 
 
 <br />
