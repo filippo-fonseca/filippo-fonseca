@@ -37,8 +37,8 @@
 - Knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
 - Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - Docker, Kubernetes, and containerized environments
-- Mechanical engineering (EV3 robotics, JDI drones, biomedical devices, etc.)
-- Electrical engineering (circuits, Arduino, breadboards, JDI Matrice 600 drone integration, etc.)
+- Mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
+- Electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
 
 <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> 
 
