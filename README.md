@@ -5,10 +5,10 @@
 
 🌳 Constantly growing. I'm a 14 year old Full-Stack / multi-disciplinary Engineer and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.       
 
-- 🛠 CEO & Co-Founder of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life.         
+- 🛠 CEO & Co-Founder of [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life.
+- - ✈️  Building [UpDrop](https://github.com/updrophq), peer-to-peer item delivery powered by drone technology and deep learning.         
 - 🚦 Co-Founder and CTO of [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
 - 📟 Creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
-- ✈️  Building [UpDrop](https://github.com/updrophq), peer-to-peer item delivery powered by drone technology and deep learning.
 - 🫁 Creator of [myracle.app](https://github.com/myracle-app), an open-source tool for automated multi-central, domino-based kidney transplant matching.
 - 💡 Building Beam AI, which empowers revolutionary energy optimization with AI/ML and IoT 
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
