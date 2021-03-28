@@ -45,6 +45,10 @@
 
 <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" />
 
+Profile views since December 25th, 2020.
+ 
+![Profile Views since December 25th, 2020](https://komarev.com/ghpvc/?username=filippo-fonsecad&style=flat-square)
+
 #### Contact + Platforms
 
 ✉️ Email | __[filifonsecacagnazzo@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
@@ -61,13 +65,9 @@
 
 <br />
 <details>
-  <summary>Stats</summary>
+  <summary>More Stats</summary>
   
   <br />
-
-Profile views since December 25th, 2020.
- 
-![Profile Views since December 25th, 2020](https://komarev.com/ghpvc/?username=filippo-fonsecad&style=flat-square)
 
 
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
