@@ -3,7 +3,7 @@
 
 ### 👋 Hi there! I'm Filippo.       
 
-🌳 Constantly growing. I'm a 14 year old Full-Stack / multi-disciplinary Engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.       
+🌳 Constantly growing. I'm a 14 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.       
 
 - 🛠 CEO & Co-Founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - ✈️  Co-Founder & CTO @ [UpDrop](https://github.com/updrophq), last-mile item delivery powered by drone technology and deep learning & [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
@@ -30,7 +30,7 @@
 
 - Specialized in Full-Stack web development: **TypeScript**, JavaScript, React, HTML/CSS, and other related aspects of frontend development in production-grade environments
 - Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
-- Production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respectove Full-Stack integrations
+- Production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations
 - Mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
 - Python experience with AI/Machine Learning, Django, and TensorFlow
 - Computer Science & Linear Algebra specialist
