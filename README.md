@@ -41,9 +41,10 @@
 - Mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
 - Electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
 
-<img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> 
+<!-- <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" /> -->
 
-<img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" />
+![stats](https://github-readme-stats-wine-rho.vercel.app/api?username=filippo-fonseca&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
+
 
 Profile views since December 25th, 2020.
  
