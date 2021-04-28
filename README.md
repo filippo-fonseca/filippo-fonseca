@@ -45,10 +45,9 @@
 
 ![stats](https://github-readme-stats-wine-rho.vercel.app/api?username=filippo-fonseca&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
 
-
-Profile views since December 25th, 2020.
- 
-![Profile Views since December 25th, 2020](https://komarev.com/ghpvc/?username=filippo-fonsecad&style=flat-square)
+![langs](https://github-readme-stats-wine-rho.vercel.app/api/top-langs?username=filippo-fonseca&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
+  
+  [![wakatime](https://github-readme-stats-wine-rho.vercel.app/api/wakatime?username=filippofonseca&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@filippofonseca)
 
 #### Contact + Platforms
 
@@ -69,6 +68,10 @@ Profile views since December 25th, 2020.
   <summary>More Stats</summary>
   
   <br />
+  
+  Profile views since December 25th, 2020.
+ 
+![Profile Views since December 25th, 2020](https://komarev.com/ghpvc/?username=filippo-fonsecad&style=flat-square)
 
 
 <img align="right alt="Most-Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filippo-fonseca&layout=compact" />
