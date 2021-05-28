@@ -1,4 +1,4 @@
-<img width="100%" alt="Screen Shot 2021-03-05 at 10 06 14" src="https://i.ibb.co/dJnQ1Jt/ff-removebg-preview.png">  
+<img width="100%" alt="Screen Shot 2021-03-05 at 10 06 14" src="https://i.ibb.co/dJnQ1Jt/ff-removebg-preview.png">   
 
 
 ### 👋 Hi there! I'm Filippo.       
