@@ -3,15 +3,13 @@
 
 ### 👋 Hi there! I'm Filippo.       
 
-🌳 Constantly growing. I'm a 14 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.                         
+🌳 Constantly growing. I'm a 14 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.                          
 
 - 🛠 CEO & Co-Founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - ✈️  Co-Founder & CTO @ [UpDrop](https://github.com/updrophq), last-mile item delivery powered by drone technology and deep learning & [Safe Labs](https://www.safelabs.app), a powerful tool for personal and community safety
-- 💸 Full-Stack Engineer at [CloutWallet](https://cloutwallet.io)
 - 📟 Creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - 🫁 Creator of [myracle.app](https://github.com/myracle-app), an open-source tool for automated multi-central, domino-based kidney transplant matching. 
 - ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur 
-- 💿 Member & contributor of [Orbital Shell CLI](https://github.com/OrbitalShell/Orbital-Shell), a command shell based inspired by bash and POSIX recommendations, coded in C# .Net Core
 - 🚀 Currently building an open-source programming language to empower everyone to build clean-cut, efficient, powerful, and reliable software 
 - 💻 Creator of [MathiumJS](https://mathiumjs.surge.sh), an open-source framework to implement math and computational functionality into your code easily and without the hassle
 - ❄️ TS, React, & GraphQL evangelist
