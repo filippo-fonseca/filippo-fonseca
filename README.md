@@ -26,7 +26,7 @@
 
 ### ⚡️ My Skills
 
-- Specialized in Full-Stack web development: **TypeScript**, JavaScript, React, HTML/CSS, and other related aspects of frontend development in production-grade environments
+- Specialized in Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
 - Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
 - Production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations
 - Mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
