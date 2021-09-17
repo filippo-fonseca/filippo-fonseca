@@ -1,47 +1,47 @@
 <img width="100%" alt="Screen Shot 2021-03-05 at 10 06 14" src="https://i.ibb.co/dJnQ1Jt/ff-removebg-preview.png">   
 
 
-### 👋 Hi there! I'm Filippo.           
+### 👋 hi there! I'm Filippo.           
 
-🌳 Constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others grow with *true* value.                                
+🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others achieve their peak prodctivity levels.                              
 
 - 🛠 CEO & Co-Founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
-- 📟 Creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
-- ⚡️ Maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
+- 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
+- ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
 - ❄️ TS, React, & GraphQL evangelist
-- 🧮 Obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning 
-- 🎓 Computer Science TA
+- 🧮 obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning 
+- 🎓 computer science TA
 - 🌱 I’m currently learning everything 🤣
-  - Most recently C++, Golang, Calculus, and Linear Algebra
+  - most recently C++, Golang, Calculus, and Linear Algebra
 - 👯 I’m looking to collaborate with other devs and content creators on cool projects! 
 - 🥅 2021 Goals: Contribute more to Open Source projects and run an amazing online hackathon
-- 🏀 Basketball enthusiast
-- ✈️  AvGeek
-- 🤓 Startup and productivity nerd
-- ⚡ Fun fact: I'm Italian 🇮🇹 
+- 🏀 basketball enthusiast
+- ✈️  avgeek
+- 🤓 startup and productivity nerd
+- ⚡ fun fact: I'm Italian 🇮🇹 
 
 ### ⚡️ My Skills
 
-- Specialized in Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
-- Expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
-- Production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations
-- Mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
-- Python experience with AI/Machine Learning, Django, and TensorFlow
-- Computer Science & Linear Algebra specialist
-- Experimenting with systems architecture/engineering in Rust and C++.
-- Knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
-- Technologies and DevOps systems such as Firebase, AWS, GCP, etc.
-- Docker, Kubernetes, and containerized environments
-- Mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
-- Electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
+- specialized in Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
+- expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
+- production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations
+- mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
+- python experience with AI/Machine Learning, Django, and TensorFlow
+- computer Science & Linear Algebra specialist
+- experimenting with systems architecture/engineering in Rust and C++.
+- knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
+- technologies and DevOps systems such as Firebase, AWS, GCP, etc.
+- docker, Kubernetes, and containerized environments
+- mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
+- electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
 
-<!-- <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" /> -->
+<!-- <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" />
 
 ![stats](https://github-readme-stats-wine-rho.vercel.app/api?username=filippo-fonseca&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
 
 ![langs](https://github-readme-stats-wine-rho.vercel.app/api/top-langs?username=filippo-fonseca&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
-  [![wakatime](https://github-readme-stats-wine-rho.vercel.app/api/wakatime?username=filippofonseca&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@filippofonseca)
+  [![wakatime](https://github-readme-stats-wine-rho.vercel.app/api/wakatime?username=filippofonseca&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@filippofonseca) -->
 
 #### Contact + Platforms
 
@@ -59,7 +59,7 @@
 
 <br />
 <details>
-  <summary>More Stats</summary>
+  <summary>stats</summary>
   
   <br />
   
