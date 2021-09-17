@@ -20,7 +20,7 @@
 - 🤓 startup and productivity nerd
 - ⚡ fun fact: I'm Italian 🇮🇹 
 
-### ⚡️ My Skills
+### ⚡️ skills
 
 - specialized in Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
 - expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
