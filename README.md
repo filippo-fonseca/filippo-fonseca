@@ -35,15 +35,9 @@
 - mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
 - electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
 
-<!-- <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/overview.svg?token=ALOW2VRK4VYITQ33JE7LOLDAMYA7K" /> <img src="https://raw.githubusercontent.com/filippo-fonseca/github-stats/master/generated/languages.svg?token=ALOW2VV52T2FUV2IEUMKJW3AMYBGK" />
 
-![stats](https://github-readme-stats-wine-rho.vercel.app/api?username=filippo-fonseca&bg_color=00000000&include_all_commits=true&count_private=true&show_icons=true&hide_rank=false&icon_color=6381AF&text_color=f2f2f2&hide_title=true&disable_animations=true)
-
-![langs](https://github-readme-stats-wine-rho.vercel.app/api/top-langs?username=filippo-fonseca&theme=dark&include_all_commits=true&count_private=true&layout=compact&bg_color=00000000)
   
-  [![wakatime](https://github-readme-stats-wine-rho.vercel.app/api/wakatime?username=filippofonseca&layout=compact&theme=dark&langs_count=5&bg_color=00000000)](https://wakatime.com/@filippofonseca) -->
-
-#### Contact + Platforms
+### contact & platforms
 
 ✉️ Email | __[filifonsecacagnazzo@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
 
@@ -75,5 +69,12 @@
 
 [![Filippo's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=filippofonseca)](https://github.com/anuraghazra/github-readme-stats)
 </details>
+                                                                                                                                               
+                                                                                                                                               
+                  
+             
+                                                                                                                                               
+                                                                                                                                               
+                                                                                                                                               
 
 
