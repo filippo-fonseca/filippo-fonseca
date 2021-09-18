@@ -3,7 +3,7 @@
 
 ### 👋 hi there! I'm Filippo.           
 
-🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others achieve their peak prodctivity levels.                              
+🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others achieve their peak prodctivity levels.                               
 
 - 🛠 CEO & Co-Founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
