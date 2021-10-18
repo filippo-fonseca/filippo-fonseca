@@ -3,9 +3,11 @@
 
 ### 👋 hi there! I'm Filippo.           
 
-🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others achieve their peak prodctivity levels.                               
+🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others achieve their peak prodctivity levels.
 
-- 🛠 CEO & Co-Founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
+Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
+
+- 🛠 ceo & co-founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
 - ❄️ TS, React, & GraphQL evangelist
@@ -39,15 +41,15 @@
   
 ### contact & platforms
 
-✉️ Email | __[filifonsecacagnazzo@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
+✉️ email | __[filifonsecacagnazzo@gmail.com](mailto:filifonsecacagnazzo@gmail.com)__
 
-🐦 Twitter | __[@FilippoFonseca](https://twitter.com/FilippoFonseca)__
+🐦 twitter | __[@FilippoFonseca](https://twitter.com/FilippoFonseca)__
 
-💬 Discord | __[filippofonseca#1111]()__
+💬 discord | __[filippofonseca#1111]()__
 
-🎧 Spotify | __[Deep Focus Lo-Fi Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
+🎧 spotify | __[Deep Focus Lo-Fi Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
 
-📸 Instagram | __[@filippo_fonseca](https://www.instagram.com/filippo_fonseca)__
+📸 instagram | __[@filippo_fonseca](https://www.instagram.com/filippo_fonseca)__
 
 
 
