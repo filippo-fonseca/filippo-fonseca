@@ -3,11 +3,12 @@
 
 ### 👋 hi there! I'm Filippo.           
 
-🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose that seeks to build tools that help others achieve their peak prodctivity levels.
+🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose. Currently building the future of the creator economy.
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
-- 🛠 ceo & co-founder @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
+- 🔒 co-founder @ [redical.io](https://redical.io), the social economy to invest in content creators.
+- 🛠 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
 - ❄️ TS, React, & GraphQL evangelist
