@@ -11,7 +11,7 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 - 🛠 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
-- ❄️ TS, React, & GraphQL evangelist
+- ❄️ TS, React, & GraphQL evangelist (now Flutter and Dart as well!)
 - 🧮 obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning 
 - 🎓 computer science TA
 - 🌱 I’m currently learning everything 🤣
