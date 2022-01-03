@@ -25,10 +25,11 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 
 ### ⚡️ skills
 
-- specialized in Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
+- specialized in:
+    - Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
+    - mobile development with flutter & dart
 - expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
-- production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations
-- mobile development experience using React Native, Flutter, and Dart (primarily). Previous experience with native Swift.
+- production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations in both React and Flutter
 - python experience with AI/Machine Learning, Django, and TensorFlow
 - computer Science & Linear Algebra specialist
 - experimenting with systems architecture/engineering in Rust and C++.
