@@ -47,7 +47,7 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 
 🐦 twitter | __[@FilippoFonseca](https://twitter.com/FilippoFonseca)__
 
-💬 discord | __[filippofonseca#1111]()__
+💬 discord | __[filippofonseca#9999]()__
 
 🎧 spotify | __[Deep Focus Lo-Fi Playlist](https://open.spotify.com/playlist/6PfyInvebm97mva5graYqV?si=zIMWmbiOR7-9txsspi1SbA)__
 
