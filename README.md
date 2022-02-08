@@ -7,7 +7,7 @@
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
-- 🔒 co-founder @ [redical.io](https://redical.io), the social economy to invest in content creators.
+- 🔒 co-founder @ [morph.li](https://morph.li), the social economy to invest in content creators.
 - 🛠 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
