@@ -3,7 +3,7 @@
 
 ### 👋 hi there! I'm Filippo.           
 
-🌳 constantly growing. I'm a 15 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose. Currently building the future of the creator economy.
+🌳 constantly growing. I'm a 16 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder based in San Jose. Currently building the future of the creator economy.
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
