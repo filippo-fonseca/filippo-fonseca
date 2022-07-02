@@ -7,8 +7,8 @@
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
-- 🔒 co-founder @ [morph.li](https://morph.li), the social economy to invest in content creators.
-- 🛠 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life. 
+- 🛠 building [**diush**](https://github.com/diush-xyz/diush) an open-source mobile platform acting as a secure funnel for selling items to your friends and network.
+- 🧪 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life, co-founder @ [morph.li](https://morph.li), the social economy to invest in content creators.
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
 - ❄️ TS, React, & GraphQL evangelist (now Flutter and Dart as well!)
