@@ -13,7 +13,7 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 **A bit more about me...**
 - 🧪 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life, co-founder @ [morph.li](https://morph.li), the social economy to invest in content creators.
 - 🚁 [Won 2nd Place](https://www.larepublica.net/noticia/jovenes-crean-plataforma-de-entrega-de-paquetes-por-drones-y-ganan-olimpiada-de-robotica) in the Senior Open Category in [World Robot Olympiad](https://wro-association.org/) in 2021 (Built an autonomous drone delivery system - learn more [here.](https://drive.google.com/drive/folders/1t2-A_9hmULLehNLS3Rn8ADJMVlbPrHMO))
-- - 🎧 Prev part-time eng @ [joinaviato.com](https://joinaviato.com).
+- 🎧 Prev part-time eng @ [joinaviato.com](https://joinaviato.com).
 - 📟 creator and lead maintainer @ [Performant Commits](https://github.com/performant-commits/performantcommits), a sleeker, more performant way of writing better, more efficient, and understandable commit messages.
 - ⚡️ maintainer at [macosicons.com](https://macosicons.com/), an open-source library for beautiful icons made for macOS Big Sur  
 - ❄️ TS, React, & GraphQL evangelist (now Flutter and Dart as well!)
