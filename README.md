@@ -3,7 +3,7 @@
 
 ### 👋 hi there! I'm Filippo.                
 
-🌳 constantly growing. I'm a 17 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder and a Yale University student double-majoring in Electrical Engineering and Applied Physics ('28). I'm current building the future of selling items to your friends and network.
+🌳 constantly growing. I'm an 18 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder and a Yale University student double-majoring in Electrical Engineering and Applied Physics ('28). I'm current building the future of selling items to your friends and network.
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
