@@ -3,14 +3,15 @@
 
 ### 👋 hi there! I'm Filippo.                
 
-🌳 constantly growing. I'm an 18 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder and a Yale University student double-majoring in Electrical Engineering and Applied Physics ('28). I'm current building the future of selling items to your friends and network.
+🌳 constantly growing. I'm an 18 year old Full-Stack / multi-disciplinary engineer (software, electrical) and startup founder and a Yale University student double-majoring in Electrical Engineering and Mechanical Engineering ('28). I'm currently building in the ed-tech space. Stay tuned :).
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
 **CURRENTLY:**
-- 🛠 building [**diush**](https://github.com/diush-xyz/diush), an open-source mobile platform acting as a secure funnel for easily selling items to your friends and network.
+- building in stealth (ed-tech)... hang tight!
 
 **A bit more about me...**
+- 🛠 building [**diush**](https://github.com/diush-xyz/diush), an open-source mobile platform acting as a secure funnel for easily selling items to your friends and network.
 - 🧪 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life.
 - 🚁 [Won 2nd Place](https://www.larepublica.net/noticia/jovenes-crean-plataforma-de-entrega-de-paquetes-por-drones-y-ganan-olimpiada-de-robotica) in the Senior Open Category in [World Robot Olympiad](https://wro-association.org/) in 2021 (Built an autonomous drone delivery system - learn more [here.](https://drive.google.com/drive/folders/1t2-A_9hmULLehNLS3Rn8ADJMVlbPrHMO))
 - 🎧 Prev platform eng @ [joinaviato.com](https://joinaviato.com).
