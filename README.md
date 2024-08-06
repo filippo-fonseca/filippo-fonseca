@@ -31,18 +31,19 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 ### ⚡️ skills
 
 - specialized in:
-    - Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of frontend development in production-grade environments
+    - Full-Stack web development: **TypeScript**, React, JavaScript, HTML/CSS, and other related aspects of development in production-grade environments
     - mobile development with flutter & dart
 - expert in a variety of frontend frameworks/libraries: React, NextJS, styled-components, ExpressJS, etc.
 - production-grade experience with GraphQL, Apollo, PostgreSQL, MongoDB, etc. + their respective Full-Stack integrations in both React and Flutter
 - python experience with AI/Machine Learning, Django, and TensorFlow
-- computer Science & Linear Algebra specialist
+- cs & linear algebra specialist
 - experimenting with systems architecture/engineering in Rust and C++.
 - knowledgeable in Elixir, Phoenix Framework, and Go (Golang)
 - technologies and DevOps systems such as Firebase, AWS, GCP, etc.
 - docker, Kubernetes, and containerized environments
-- mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
-- electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
+- mechatronics engineering
+    - mechanical engineering (EV3 robotics, DJI drones, biomedical devices, etc.)
+    - electrical engineering (circuits, Arduino, breadboards, DJI drone integration, etc.)
 
 
   
