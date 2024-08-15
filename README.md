@@ -22,7 +22,7 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 - 🌱 I’m currently learning everything 🤣
   - most recently C++, Golang, Calculus, and Linear Algebra
 - 👯 I’m looking to collaborate with other devs and content creators on cool projects! 
-- 🥅 2022 Goals: Contribute more to Open Source projects and run an amazing online hackathon
+- 🥅 2025 Goals: Contribute more to Open Source projects and run an amazing online hackathon
 - 🏀 basketball enthusiast
 - ✈️  avgeek
 - 🤓 startup and productivity nerd
