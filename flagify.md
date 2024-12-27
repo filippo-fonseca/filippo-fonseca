@@ -3,6 +3,8 @@
 
 # 🌐 **Flagify: Making Flags (and Cultures) Cool Again**
 
+---
+
 ## **Our Vision**
 
 In a world where information is just a search away, the excitement of discovery has dulled. **Flagify** aims to reignite that spark by blending the thrill of a game with the beauty of cultural exploration.
