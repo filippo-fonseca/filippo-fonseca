@@ -1,10 +1,7 @@
-# 🌐 **Flagify Manifesto: Making Flags (and Cultures) Cool Again**
 
----
+<img src="https://i.ibb.co/pRKbgNQ/Screenshot-2024-12-27-at-5-51-01-PM-removebg-preview.png" style="height:200px" />
 
-![Flagify Logo Placeholder](#)
-
----
+# 🌐 **Flagify: Making Flags (and Cultures) Cool Again**
 
 ## **Our Vision**
 
@@ -103,7 +100,7 @@ Let’s make learning cool again. Let’s make flags cool again. Let’s make cu
 ### **Feedback or Suggestions?**
 We’re building Flagify with **you** in mind. Drop your ideas, and let’s grow this movement together.
 
-✉️ **Contact Us:** support@flagify.com  
+✉️ **Contact Us:** gfonsecacagnazzo@gmail.com
 📍 **Follow Us on Social Media:** [Twitter](#) | [Instagram](#)
 
 ---
