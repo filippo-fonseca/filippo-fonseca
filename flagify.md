@@ -32,8 +32,8 @@ At its heart, Flagify is more than just a game. It's a **movement**. A pushback 
 
 - **Earn and Lose Points**  
   - ✅ **Correct Answer**: +1  
-  - ❌ **Wrong Answer**: -1  
-  - 🙅‍♂️ **Give Up**: -0.25  
+  - ❌ **Wrong Answer**: -0.25  
+  - 🙅‍♂️ **Give Up**: -1
 
 ### **🏆 The Leaderboard**
 Compete with users worldwide in a **global leaderboard**, showcasing the most curious and knowledgeable adventurers.  
