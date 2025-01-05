@@ -3,7 +3,7 @@
 
 ### 👋 hi there! I'm Filippo.                
 
-🌳 constantly growing. I'm an 18 year old Full-Stack / multi-disciplinary engineer (software, electrical), startup founder, and Yale University student double-majoring in Electrical Engineering and Mechanical Engineering ('28). I'm currently building in the ed-tech space. Stay tuned :).
+🌳 constantly growing. I'm an 18 year old mechatronics engineer, founder, and Yale University student double-majoring in Mechanical Engineering and EECS ('28). I'm currently building in the aerospace/neurotech space. Stay tuned :).
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
@@ -11,7 +11,7 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 - building in stealth (ed-tech)... hang tight!
 
 **A bit more about me...**
-- 🛠 building [**diush**](https://github.com/diush-xyz/diush), an open-source mobile platform acting as a secure funnel for easily selling items to your friends and network.
+- 🛠 built [**diush**](https://github.com/diush-xyz/diush), an open-source mobile platform acting as a secure funnel for easily selling items to your friends and network.
 - 🧪 previously ceo @ [zyndicate.app](https://zyndicate.app), the all-in-one platform to organize your life.
 - 🚁 [Won 2nd Place](https://www.larepublica.net/noticia/jovenes-crean-plataforma-de-entrega-de-paquetes-por-drones-y-ganan-olimpiada-de-robotica) in the Senior Open Category in [World Robot Olympiad](https://wro-association.org/) in 2021 (Built an autonomous drone delivery system - learn more [here.](https://drive.google.com/drive/folders/1t2-A_9hmULLehNLS3Rn8ADJMVlbPrHMO))
 - 🎧 Prev platform eng @ [joinaviato.com](https://joinaviato.com).
@@ -20,13 +20,13 @@ Scroll down for my contact info! Shoot me a DM or email at any time, I love to c
 - 🧮 obsessed with understanding and implementing the complex Math, formulas, and algorithms behind machine/deep learning 
 - 🎓 computer science TA
 - 🌱 I’m currently learning everything 🤣
-  - most recently C++, Golang, Calculus, and Linear Algebra
+  - most recently C, Golang, Calculus, and Linear Algebra
 - 👯 I’m looking to collaborate with other devs and content creators on cool projects! 
 - 🥅 2025 Goals: Contribute more to Open Source projects and run an amazing online hackathon
 - 🏀 basketball enthusiast
 - ✈️  avgeek
 - 🤓 startup and productivity nerd
-- ⚡ fun fact: I'm Italian 🇮🇹 
+- ⚡ fun fact: I love learning languages (🇮🇹🇪🇸🇺🇸🇫🇷🇧🇬...)
 
 ### ⚡️ skills
 
