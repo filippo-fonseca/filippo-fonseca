@@ -8,7 +8,7 @@
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
 **CURRENTLY:**
-- building in stealth (ed-tech)... hang tight!
+- building in stealth (cardiac-tech)... hang tight!
 
 **A bit more about me...**
 - 🛠 built [**diush**](https://github.com/diush-xyz/diush), an open-source mobile platform acting as a secure funnel for easily selling items to your friends and network.
