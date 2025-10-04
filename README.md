@@ -3,7 +3,7 @@
 
 ### 👋 hi there! I'm Filippo.                
 
-🌳 constantly growing. I'm an 18 year old mechatronics engineer, founder, and Yale University student double-majoring in Mechanical Engineering and EECS ('28). I'm currently building and doing research in biomedical, aerospace, and neurotech spaces. Stay tuned :).
+🌳 constantly growing. I'm a 19 year old mechatronics engineer, founder, and Yale University student double-majoring in Mechanical Engineering ABET and EECS ('28). I'm currently building and doing research in biomedical, aerospace, and neurotech spaces. Stay tuned :).
 
 Scroll down for my contact info! Shoot me a DM or email at any time, I love to chat and meet new people!
 
