@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" width="1200" height="430" role="img" aria-label="Filippo Fonseca: I build intelligent mechatronic and robotic systems for the human body">
+  <defs>
+    <linearGradient id="paper" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#f7f3ea"/>
+      <stop offset="100%" stop-color="#efe9db"/>
+    </linearGradient>
+    <filter id="neuShadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="6"/>
+    </filter>
+    <clipPath id="cardClip">
+      <rect x="30" y="30" width="1140" height="370" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <!-- Paper page -->
+  <rect x="0" y="0" width="1200" height="430" rx="24" fill="#efe9db"/>
+
+  <!-- Neumorphic underlays -->
+  <rect x="36" y="36" width="1128" height="358" rx="20" fill="#d6cdb9" filter="url(#neuShadow)" opacity="0.55"/>
+  <rect x="24" y="24" width="1128" height="358" rx="20" fill="#ffffff" filter="url(#neuShadow)" opacity="0.7"/>
+
+  <!-- The card -->
+  <rect x="30" y="30" width="1140" height="370" rx="18" fill="url(#paper)"/>
+  <rect x="30.5" y="30.5" width="1139" height="369" rx="17.5" fill="none" stroke="#1a1a1a" stroke-opacity="0.08"/>
+
+  <!-- Faint concentric orbits framing the message (LinkedIn nod) -->
+  <g clip-path="url(#cardClip)" fill="none" stroke="#1a1a1a" stroke-opacity="0.07">
+    <circle cx="905" cy="215" r="250"/>
+    <circle cx="905" cy="215" r="300"/>
+    <circle cx="905" cy="215" r="350"/>
+  </g>
+
+  <!-- Top meta -->
+  <g transform="translate(80 74)" fill="#1a1a1a" opacity="0.45">
+    <circle cx="0" cy="0" r="2.2"/>
+    <circle cx="12" cy="0" r="2.2"/>
+    <circle cx="24" cy="0" r="2.2"/>
+  </g>
+  <text x="116" y="78" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.2" fill="#1a1a1a" fill-opacity="0.55">YALE  ·  HARVARD MEDICAL SCHOOL  ·  MASS GENERAL HOSPITAL</text>
+  <text x="1120" y="78" text-anchor="end" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.2" fill="#1a1a1a" fill-opacity="0.55">BIOMECHATRONICS</text>
+
+  <!-- ============ LEFT: identity + biomechatronic line-art ============ -->
+
+  <!-- Motif column near the spine: cardiovascular · orthopedic · embedded ML -->
+
+  <!-- Anatomical heart with mechanical nodes -->
+  <g transform="translate(508 96) scale(2.2)" fill="none" stroke="#1a1a1a" stroke-width="1.25" stroke-linecap="round" stroke-linejoin="round" opacity="0.9">
+    <path d="M12 21 C12 21 3 14.5 3 8.5 C3 5.4 5.4 3 8.5 3 C10.3 3 11.6 4 12 5 C12.4 4 13.7 3 15.5 3 C18.6 3 21 5.4 21 8.5 C21 14.5 12 21 12 21 Z"/>
+    <path d="M9 2.2 C8 0.4 6 0.4 6 0.4 M15 2.2 C16 0.4 18 0.4 18 0.4"/>
+    <circle cx="8.6" cy="9" r="0.8" fill="#1a1a1a" stroke="none"/>
+    <circle cx="15.4" cy="9" r="0.8" fill="#1a1a1a" stroke="none"/>
+    <path d="M6.5 12.5 L9.5 12.5 L11 10 L12.6 15 L14.2 12.5 L17.4 12.5"/>
+  </g>
+
+  <!-- Robotic knee / prosthetic joint -->
+  <g transform="translate(512 196)" fill="none" stroke="#1a1a1a" stroke-width="2.1" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <line x1="8" y1="2" x2="24" y2="34"/>
+    <circle cx="26" cy="40" r="7" fill="#efe9db"/>
+    <circle cx="26" cy="40" r="2.3" fill="#1a1a1a" stroke="none"/>
+    <line x1="27" y1="46" x2="19" y2="74"/>
+    <circle cx="18" cy="79" r="4.2" fill="#1a1a1a" stroke="none"/>
+    <line x1="15" y1="82" x2="3" y2="86"/>
+  </g>
+
+  <!-- Microchip (embedded ML) -->
+  <g transform="translate(516 300)" fill="none" stroke="#1a1a1a" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" opacity="0.85">
+    <rect x="6" y="6" width="22" height="22" rx="3"/>
+    <rect x="12.5" y="12.5" width="9" height="9" rx="1.5"/>
+    <path d="M12 6 L12 2 M17 6 L17 2 M22 6 L22 2"/>
+    <path d="M12 28 L12 32 M17 28 L17 32 M22 28 L22 32"/>
+    <path d="M6 12 L2 12 M6 17 L2 17 M6 22 L2 22"/>
+    <path d="M28 12 L32 12 M28 17 L32 17 M28 22 L32 22"/>
+  </g>
+
+  <!-- Wordmark -->
+  <text x="80" y="248" font-family="'EB Garamond', 'Cormorant Garamond', Georgia, 'Times New Roman', serif" font-size="62" font-weight="600" letter-spacing="-1.5" fill="#1a1a1a">Filippo Fonseca</text>
+
+  <!-- Role tagline -->
+  <text x="82" y="288" font-family="'EB Garamond', Georgia, serif" font-style="italic" font-size="19" fill="#1a1a1a" fill-opacity="0.72">Engineer · Roboticist · Researcher · Founder · Polyglot.</text>
+
+  <!-- Footer brand spine (left) -->
+  <text x="80" y="352" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2.2" fill="#1a1a1a" fill-opacity="0.5">❦  HUMANIST PHYSICAL INTELLIGENCE</text>
+
+  <!-- Book-spine divider -->
+  <line x1="608" y1="108" x2="608" y2="356" stroke="#1a1a1a" stroke-opacity="0.14" stroke-width="1"/>
+
+  <!-- ============ RIGHT: the message ============ -->
+
+  <!-- Primary statement -->
+  <text x="892" y="156" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="33" font-weight="700" fill="#1a1a1a">
+    <tspan x="892">I build intelligent mechatronic &amp;</tspan>
+    <tspan x="892" dy="42">robotic systems for the human body.</tspan>
+  </text>
+
+  <!-- Subtext -->
+  <text x="892" y="240" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-size="16" fill="#1a1a1a" fill-opacity="0.72">
+    <tspan x="892">Striving to enable people to live healthier, more fulfilling</tspan>
+    <tspan x="892" dy="23">lives through life-saving, enriching, physically-intelligent systems.</tspan>
+  </text>
+
+  <!-- Dot rule -->
+  <g transform="translate(892 296)" fill="#1a1a1a" opacity="0.55">
+    <circle cx="-12" cy="0" r="2.4"/>
+    <circle cx="0" cy="0" r="2.4"/>
+    <circle cx="12" cy="0" r="2.4"/>
+  </g>
+
+  <!-- Focus tags -->
+  <text x="892" y="332" text-anchor="middle" font-family="'EB Garamond', Georgia, serif" font-style="italic" font-size="15.5" fill="#1a1a1a" fill-opacity="0.82">
+    <tspan x="892">cardiovascular + orthopedic mechatronics · soft robotics</tspan>
+    <tspan x="892" dy="22">accessibility tech · embedded ML</tspan>
+  </text>
+
+  <!-- Site -->
+  <text x="892" y="384" text-anchor="middle" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="12" letter-spacing="1.5" font-weight="600" fill="#1a1a1a">filippofonseca.com</text>
+</svg>
