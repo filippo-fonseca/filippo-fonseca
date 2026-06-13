@@ -3,9 +3,11 @@
 <img src="./assets/banner.png" alt="Filippo Fonseca, roboticist building intelligent mechatronic and robotic systems for the human body" width="900" />
 
 <br/>
+<br/>
+<br/>
 
-> *"I strive to understand the human condition*
-> *through engineering and beyond."*
+> *I strive to understand the human condition*
+> *through engineering and beyond.*
 
 <br/>
 
@@ -53,6 +55,13 @@ Lead engineer for the **Dynamic Electromechanical Bioreactor (DEB)** at the Yale
 
 #### 🪱 Burrowing Robotics & Embodied AI
 Soft, **variable-stiffness burrowing robots** at The Faboratory, treating granular-media mechanics, structure, and geometry as first-class design variables rather than averaging them away. Presented at IEEE RoboSoft and the Princeton Robotics Symposium; co-author on **Spatial-MemER**, an open-source spatial-reasoning extension to robot policies built with Stanford's IRIS Lab.
+
+---
+
+## ❦  Publications
+
+- **[Common Ground: Standardizing Granular Media Characteristics for Burrowing Robots](https://ieeexplore.ieee.org/abstract/document/11522833)** · *2026 IEEE Int. Conference on Soft Robotics (RoboSoft)*, pp. 1005–1010. <br/> <sub>C. L. Le, **F. Fonseca Cagnazzo**, N. Ramos, E. I. Figueroa, C. Creager, R. Kramer-Bottiglio.</sub>
+- **[Uncorrelated Track (UCT) Processing: Efficient Algorithmic Treatment and Benchmarking Best Practices for Space Domain Awareness](https://ui.adsabs.harvard.edu/abs/2025amos.conf...84F/abstract)** · *Advanced Maui Optical and Space Surveillance (AMOS) Technologies Conference*, 2025, p. 84. <br/> <sub>**F. Fonseca**, O. Pinhasi, Z. Zitzewitz.</sub>
 
 ---
 
