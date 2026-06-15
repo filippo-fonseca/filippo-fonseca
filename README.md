@@ -67,7 +67,7 @@ Soft, **variable-stiffness burrowing robots** at The Faboratory, treating granul
 
 ## ❦  Building & Open Source
 
-**[hyperpolymath.com](https://hyperpolymath.com)** · [`hyperpolymath-v2`](https://github.com/filippo-fonseca/hyperpolymath-v2): A personal life-OS for people who refuse to specialize. Areas, projects, tasks, habits, and calendar unified under a natural-language agent (**JARVIS**, on Claude Sonnet 4.6). Web + Tauri desktop + a custom ESP32 macropad. *Academic-paper-meets-Notion, MIT.*
+**[hyperpolymath.com](https://hyperpolymath.com)** · [`hyperpolymath-v2`](https://github.com/filippo-fonseca/hyperpolymath-v2): A personal life-OS for people who refuse to specialize. Areas, projects, tasks, habits, and calendar unified under a natural-language agent (**JARVIS**, on Claude Sonnet 4.6). Web + Tauri desktop + a custom ESP32 macropad. Open-source!
 
 **[degreeint.com](https://degreeint.com)**: *DegreeIntelligence.* Degree planning for Yale, used by **~1 in 6 Yale undergrads**. Scrapes scattered major requirements into one place: live distributional + major tracking, a drag-and-drop 4-year simulator, shared plans with friends, and an AI advisor (**CLEO**). Founder. Free forever. *([Yale Daily News →](https://yaledailynews.com/blog/2025/09/23/new-student-run-platform-aims-to-simplify-degree-planning/))*
 
