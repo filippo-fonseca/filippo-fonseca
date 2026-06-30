@@ -82,7 +82,6 @@ Soft, **variable-stiffness burrowing robots** at The Faboratory, treating granul
 **[hyperpoly.me](https://github.com/filippo-fonseca/hyperpoly-me)**: A public, minimalist log of my daily language *training*, tracking reps across 7+ languages, treating each like a runner treats mileage.
 
 ---
-
 ## ❦  Selected History
 
 - 🥈 **2nd place worldwide, World Robot Olympiad** (Senior Open, 🇨🇷): *UpDrop*, an autonomous drone-delivery system; historic finish for a Latin American nation, covered by 15+ outlets
@@ -93,6 +92,12 @@ Soft, **variable-stiffness burrowing robots** at The Faboratory, treating granul
 - 🤝 **Founder & Head of Engineering, HSC-GPT**: Australia's first localized AI education platform; *acquired by Art of Smart Education*
 - 🌐 **Co-Founder & CEO, Zyndicate**: real-time collaboration platform, ~30k peak users, team of 12+ across 5 continents
 - ▶️ **Creator**: YouTube: *Filippo Studies*
+
+---
+
+## Stats
+
+[![Filippo's GitHub stats](https://github-stats-extended.vercel.app/api?username=filippo-fonseca)](https://github.com/stats-organization/github-stats-extended)
 
 ---
 
