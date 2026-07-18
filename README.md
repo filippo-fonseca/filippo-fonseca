@@ -23,7 +23,7 @@
 
 ## Abstract
 
-I'm a **mechatronics engineer and roboticist** with a software + ML background. My focus is building **physically-intelligent biomechatronic systems** through robotics and materials innovations, mainly for **cardiac health / internal medicine** and **orthopaedics / biomechanics**.
+I'm a **mechatronics engineer and roboticist** with a software + ML background currentlt at Yale University ('28). My focus is building **physically-intelligent biomechatronic systems** through robotics and materials innovations, mainly for **cardiac health / internal medicine** and **orthopaedics / biomechanics**.
 
 I believe in treating **structure, geometry, and topology as first-class objects** to be uncovered, not averaged away by black-box models. This philosophy drives how I approach ML and computation in scientific, robotic, and biomedical settings.
 
